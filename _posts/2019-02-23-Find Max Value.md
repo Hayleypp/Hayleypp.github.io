@@ -1,3 +1,5 @@
+## Today I learn 01
+
 
 ```python
 def find_max(a):
@@ -11,7 +13,5 @@ def find_max(a):
 v = [17, 92, 18, 33, 58, 7, 33, 42]
 print(find_max(v))
 ```
-
-**********************
 
 ​																		From Python For Everyone
