@@ -1,8 +1,6 @@
-## Confusion Matrix
-
 ### Today I Learn 04
 
-The visualisation of the performance of a classfier
+The visualisation of the performance of a classifier
 
 
 ```python
