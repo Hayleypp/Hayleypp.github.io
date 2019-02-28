@@ -11,7 +11,6 @@ nameList = soup.find_all("table", {"class":"table_3"}) # table tag, attributes
 for name in nameList:
     print (name.get_text())
 
-</pre></code>
 
 
 
