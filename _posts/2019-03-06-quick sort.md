@@ -4,9 +4,9 @@
 
 
 ```python
-	def quick_sort_sub(result, s, e):
-    	if e - s <= 0:
-    		return result
+def quick_sort_sub(result, s, e):
+	if e - s <= 0:
+    	return result
     
     
     pivot = result[e]
