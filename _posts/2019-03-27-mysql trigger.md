@@ -1,12 +1,8 @@
-## MySQL_Trigger
-
-
-
 #### Today I learn
 
-
-
 ##### Trigger is activated when MySQL runs INSERT, UPDATE, DELETE statement
+
+
 
 ```mysql
 CREATE TABLE deletedUserTBL (
