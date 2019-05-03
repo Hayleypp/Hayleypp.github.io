@@ -25,6 +25,8 @@ first of all, downloading document (simple.xml from w3schools.com)
 
   
 
+  
+
   1. import the data by reading from a file
 
   ```
@@ -40,6 +42,8 @@ first of all, downloading document (simple.xml from w3schools.com)
   ```
 
   As an Element, root has a tag and a dictionary of attributes
+
+  
 
   
 
