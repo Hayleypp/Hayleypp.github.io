@@ -47,6 +47,8 @@ first of all, downloading document (simple.xml from w3schools.com)
 
   
 
+
+
   2. Finding interesting elements
 
   Elements.findall() let us find only elements with a tag which are direct children of the current element.
@@ -62,6 +64,8 @@ first of all, downloading document (simple.xml from w3schools.com)
   	print(name, rank)
   ```
 
+  
+  
   
 
   3. XPath support
