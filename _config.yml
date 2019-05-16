@@ -109,7 +109,7 @@ author:
   name             : "Hayley"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Jump Into Data Science"
-  location         : "Seoul London Berlin"
+  location         : 
   email            :
   links:
     - label: "Email"
