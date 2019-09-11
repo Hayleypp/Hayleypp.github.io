@@ -4,7 +4,7 @@ TIL_MySQL
 
 1. The order in which the MySQL get executed is
 
-```mysql
+```sql
 
 # WHERE clause - SELECT clause - GROUP BY clause - HAVING clause - ORDER cluase
 SELECT u.user_id, sum(p.price) as pay
@@ -23,7 +23,7 @@ ORDER BY sum(p.price) DESC;
 
    To get rid of all, "TRUNCATE"
 
-```mysql
+```sql
 # delete all data 
 INSERT INTO sandbox
 (name, value)
