@@ -21,6 +21,14 @@ recommend = [sys.stdin.readline() for i in range(n)]
 
 
 
+
+
+
+
+
+
+
+
 # (MySQL) Stored Procedure
 
 
@@ -39,3 +47,4 @@ END$$
 DELIMITER;
 ```
 
+ 
